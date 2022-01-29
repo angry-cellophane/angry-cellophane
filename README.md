@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Alex
-- 👀 I’m interested in java, spring, reactor, k8s, prometheus
-- 🌱 I’m currently learning reactor
-- 💞️ I’m looking to collaborate on java, async projects.
+- 👀 I’m interested in <s>java, spring, reactor, k8s, prometheus</s> rust
+- 🌱 I’m currently learning rust
+- 💞️ I’m looking to collaborate on <s>java, async projects</s> not really anything
 - 📫 How to reach me @AlexKazak0v on twitter
 
 <!---
